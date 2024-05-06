@@ -1,0 +1,1 @@
+export const link = "https://wa.me/5519984218346?text=Ol%C3%A1+Jhonatan";
